@@ -1,7 +1,7 @@
 fastcore>=1.4
 imutils>=0.5.4
 numpy>=1.25.2
-opencv_python>=4.8.0.74
+opencv_python>=4.7.0.72
 paho_mqtt>=1.6.1
 PyGObject~=3.42.2
 setuptools>=68.0.0
